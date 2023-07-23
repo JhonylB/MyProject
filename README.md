@@ -1,4 +1,4 @@
-<h1> style="color:blue";> Creating New Repository</h1>
+<h1 style="color:blue";> Creating New Repository</h1>
   
   <p><h3>1st Log-in your Github account</h3></p>
   <img src="https://github.com/JhonylB/MyProject/blob/main/Pictures/1.png">
