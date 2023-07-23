@@ -1,9 +1,9 @@
-<h1 style="color:blue";> Creating New Repository</h1>
+<h1 style="color:blue;"> Creating New Repository</h1>
   
   <p style="font-size:200%;">1st Log-in your Github account</p>
   <img src="https://github.com/JhonylB/MyProject/blob/main/Pictures/1.png">
   
-  <<p style="font-size:200%;">2nd Click new</p>
+  <p style="font-size:200%;">2nd Click new</p>
   <img src="https://github.com/JhonylB/MyProject/blob/main/Pictures/2.png">
   
   <p style="font-size:200%;">3rd Add add your desired Project Name</p>
