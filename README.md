@@ -15,4 +15,10 @@
  <p style="font-size:200%;">Click Create new Repository</p>
   <img src="https://github.com/JhonylB/MyProject/blob/main/Pictures/4.png">
   
+<p style="font-size:200%;">Please see the Video bellow for alternative way of creating Repository.</p>
+
+
+https://github.com/JhonylB/MyProject/assets/140218471/bd30a44a-408c-4e0b-b40f-66012302a06d
+
+
   <p style="font-size:200%;">Done Creating Repository</p>
